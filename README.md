@@ -1,9 +1,8 @@
 #CLI for Linux mount utility
 
-Requeriments for python
-```bash
-simple_term_menu
-```
+Requeriments
+
+- simple_term_menu (python library)
 
 Second version (Menu option)
 ```python
