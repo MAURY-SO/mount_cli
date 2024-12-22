@@ -1,10 +1,15 @@
-CLI for Linux mount utility
+#CLI for Linux mount utility
+
+Requeriments for python
+```bash
+simple_term_menu
+```
 
 Second version (Menu option)
-```bash
+```python
 python mounted.py
 ```
 First version
-```bash
+```python
 python md.py
 ```
